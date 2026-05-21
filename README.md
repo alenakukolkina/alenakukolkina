@@ -1,5 +1,11 @@
 ## Hi there, I'm Alena Kukolkina
-## I'm a Data Analyst
+# I'm a Data Analyst with about a year of experience
+
+I specialize in SQL and Python, working with BI systems and automated reporting. I started with pet projects and freelancing, but now I want to grow as part of a professional team.
+
+I came to data analytics from a real business background, launching and developing my own confectionery brand, where I gained practical experience in market analysis, building financial models, and managing product ranges based on metrics.
+
+
 
 <!--
 **alenakukolkina/alenakukolkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
