@@ -1,5 +1,5 @@
 ## Hi there, I'm Alena Kukolkina
-# I'm a Data Analyst with about a year of experience
+### I'm a Data Analyst with about a year of experience
 
 I specialize in SQL and Python, working with BI systems and automated reporting. I started with pet projects and freelancing, but now I want to grow as part of a professional team.
 
